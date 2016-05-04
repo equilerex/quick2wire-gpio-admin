@@ -1,5 +1,7 @@
-GPIO Admin
+A fork of GPIO Admin
 ==========
+Forked version with a fix for newer rasperry pi versions since the original repository had not been updated for years 
+
 
 A command-line tool to export or unexport the Raspberry Pi's GPIO pins
 and allow only the user to control then.
